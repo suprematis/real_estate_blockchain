@@ -1,0 +1,28 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Vidal%
+}{%
+Vidal%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+vidal_tokenizing_2017}
+\APACinsertmetastar {%
+vidal_tokenizing_2017}%
+\begin{APACrefauthors}%
+Vidal, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{07}}}{}.
+\newblock
+\APACrefbtitle {Tokenizing Real Estate on the Blockchain.} {Tokenizing real
+  estate on the blockchain.}
+\newblock
+\begin{APACrefURL}
+  [{2018-03-02}]\url{https://medium.com/@mariat.vidal/tokenizing-real-estate-on-the-blockchain-9a13ae99bf11}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
