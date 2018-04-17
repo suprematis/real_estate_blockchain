@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.17)  17 APR 2018 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.17)  17 APR 2018 15:01
 entering extended mode
 **./bare_jrnl_compsoc.tex
 (bare_jrnl_compsoc.tex
@@ -119,7 +119,7 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-No file bare_jrnl_compsoc.aux.
+(bare_jrnl_compsoc.aux)
 \openout1 = `bare_jrnl_compsoc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 370.
@@ -134,90 +134,68 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 370.
 LaTeX Font Info:    ... okay on input line 370.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 370.
 LaTeX Font Info:    ... okay on input line 370.
+
 -- Lines per column: 61 (exact).
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 485.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 442.
 
 ("C:\Users\andre\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11.04124> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 485.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 485.
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 485.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 442.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 44
+2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8.03> on input line 485.
+(Font)              <11.04124> on input line 442.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.62097> on input line 485.
+(Font)              <7.72884> on input line 442.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.015> on input line 485.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 48
-5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11.04124> on input line 485.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.72884> on input line 485.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.52061> on input line 485.
-LaTeX Font Info:    Try loading font information for U+pzd on input line 485.
+(Font)              <5.52061> on input line 442.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 442.
 ("C:\Users\andre\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 513.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 470.
 LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
 
-(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 513.
-LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 541
-.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9.53561> on input line 541.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6.6749> on input line 541.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.7678> on input line 541.
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 470.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 551.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 504.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 557.
-LaTeX Font Info:    Calculating math sizes for size <7.02625> on input line 785
-.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 510.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 690.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.02625> on input line 785.
+(Font)              <8.03> on input line 690.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <4.91833> on input line 785.
+(Font)              <5.62097> on input line 690.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <3.51312> on input line 785.
+(Font)              <4.015> on input line 690.
 
 [1{C:/Users/andre/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-(bare_jrnl_compsoc.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(bare_jrnl_compsoc.aux) ) 
 Here is how much of TeX's memory you used:
- 1295 strings out of 493305
- 23545 string characters out of 3129802
- 79087 words of memory out of 3000000
- 4886 multiletter control sequences out of 15000+200000
- 52465 words of font info for 103 fonts, out of 3000000 for 9000
+ 1262 strings out of 493305
+ 22929 string characters out of 3129802
+ 77087 words of memory out of 3000000
+ 4855 multiletter control sequences out of 15000+200000
+ 45957 words of font info for 95 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 31i,8n,31p,215b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy8.pfb><C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-helvetic/uhvb8a.pfb><C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/helvetic/uhvr8a.pfb><C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/andre/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/andre/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/andre/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on bare_jrnl_compsoc.pdf (1 page, 77578 bytes).
+ 29i,8n,31p,404b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/font
+s/enc/dvips/base/8r.enc}<C:/Users/andre/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/helvetic/uhvb8a.pfb><C:/Users/andre/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/andre/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/andre/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/andre/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Users/andre/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on bare_jrnl_compsoc.pdf (1 page, 59442 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

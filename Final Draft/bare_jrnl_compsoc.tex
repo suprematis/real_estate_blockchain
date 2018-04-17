@@ -375,7 +375,7 @@
 % not capitalized unless they are the first or last word of the title.
 % Linebreaks \\ can be used within to get better formatting as desired.
 % Do not put math or special symbols in the title.
-\title{Bare Demo of IEEEtran.cls for\\ IEEE Computer Society Journals}
+\title{Blockchain principles applied to transaction operations on the Real Estate Market}
 %
 %
 % author names and IEEE memberships
@@ -399,40 +399,12 @@
 % journal papers have the author affiliations above the "Manuscript
 % received ..."  text while in non-compsoc journals this is reversed. Sigh.
 
-\author{Michael~Shell,~\IEEEmembership{Member,~IEEE,}
-        John~Doe,~\IEEEmembership{Fellow,~OSA,}
-        and~Jane~Doe,~\IEEEmembership{Life~Fellow,~IEEE}% <-this % stops a space
-\IEEEcompsocitemizethanks{\IEEEcompsocthanksitem M. Shell was with the Department
-of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta,
-GA, 30332.\protect\\
-% note need leading \protect in front of \\ to get a newline within \thanks as
-% \\ is fragile and will error, could use \hfil\break instead.
-E-mail: see http://www.michaelshell.org/contact.html
-\IEEEcompsocthanksitem J. Doe and J. Doe are with Anonymous University.}% <-this % stops an unwanted space
-\thanks{Manuscript received April 19, 2005; revised August 26, 2015.}}
-
-% note the % following the last \IEEEmembership and also \thanks - 
-% these prevent an unwanted space from occurring between the last author name
-% and the end of the author line. i.e., if you had this:
-% 
-% \author{....lastname \thanks{...} \thanks{...} }
-%                     ^------------^------------^----Do not want these spaces!
-%
-% a space would be appended to the last name and could cause every name on that
-% line to be shifted left slightly. This is one of those "LaTeX things". For
-% instance, "\textbf{A} \textbf{B}" will typeset as "A B" not "AB". To get
-% "AB" then you have to do: "\textbf{A}\textbf{B}"
-% \thanks is no different in this regard, so shield the last } of each \thanks
-% that ends a line with a % and do not let a space in before the next \thanks.
-% Spaces after \IEEEmembership other than the last one are OK (and needed) as
-% you are supposed to have spaces between the names. For what it is worth,
-% this is a minor point as most people would not even notice if the said evil
-% space somehow managed to creep in.
+\author {Andres~Salgado, Jorge~Valdeiglesias, and Kartikeya Yelllayi}
 
 
 
 % The paper headers
-\markboth{Journal of \LaTeX\ Class Files,~Vol.~14, No.~8, August~2015}%
+\markboth{CSC690 Capstone Project, Professor Alex Wu, Spring 2018}%
 {Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Computer Society Journals}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
@@ -459,26 +431,11 @@ E-mail: see http://www.michaelshell.org/contact.html
 % papers don't need this extra clearance.)
 
 
-
-% use for special paper notices
-%\IEEEspecialpapernotice{(Invited Paper)}
-
-
-
-% for Computer Society papers, we must declare the abstract and index terms
-% PRIOR to the title within the \IEEEtitleabstractindextext IEEEtran
-% command as these need to go into the title area created by \maketitle.
-% As a general rule, do not put math, special symbols or citations
-% in the abstract or keywords.
 \IEEEtitleabstractindextext{%
 \begin{abstract}
 The abstract goes here.
 \end{abstract}
-
-% Note that keywords are not normally used for peerreview papers.
-\begin{IEEEkeywords}
-Computer Society, IEEE, IEEEtran, journal, \LaTeX, paper, template.
-\end{IEEEkeywords}}
+}
 
 
 % make the title area
@@ -520,29 +477,10 @@ Computer Society, IEEE, IEEEtran, journal, \LaTeX, paper, template.
 % \IEEEraisesectionheading puts \section within a raised box.
 
 
+\IEEEPARstart{W}{ith} the advent of ``blockchain'' technologies, as well as the necessity to establish a system where the trust of transactions could be offloaded to machines, we ventured into exploring how a system based on an Ethereum blockchain could accurately execute a series of smart contracts in order to validate a transaction between two entities.
 
 
-% The very first letter is a 2 line initial drop letter followed
-% by the rest of the first word in caps (small caps for compsoc).
-% 
-% form to use if the first word consists of a single letter:
-% \IEEEPARstart{A}{demo} file is ....
-% 
-% form to use if you need the single drop letter followed by
-% normal text (unknown if ever used by the IEEE):
-% \IEEEPARstart{A}{}demo file is ....
-% 
-% Some journals put the first two words in caps:
-% \IEEEPARstart{T}{his demo} file is ....
-% 
-% Here we have the typical use of a "T" for an initial drop letter
-% and "HIS" in caps to complete the first word.
-\IEEEPARstart{T}{his} demo file is intended to serve as a ``starter file''
-for IEEE Computer Society journal papers produced under \LaTeX\ using
-IEEEtran.cls version 1.8b and later.
-% You must have at least 2 lines in the paragraph with the drop letter
-% (should never be an issue)
-I wish you the best of success.
+
 
 \hfill mds
  
