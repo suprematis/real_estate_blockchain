@@ -12,6 +12,13 @@ as well as within IEEE's site:
 
 http://www.ieee.org/
 
+
+This package contains the IEEE Computer Society subset of the full IEEEtran
+package and is intended for use with IEEE Computer Society publications.
+The included version of the IEEEtran_HOWTO.pdf has been specially formatted
+in IEEE Computer Society (compsoc) journal mode.
+
+
 For latest news, helpful tips, answers to frequently asked questions,
 beta releases and other support, visit the IEEEtran home page at my
 website:
@@ -67,18 +74,6 @@ Michael Shell
 http://www.michaelshell.org/
 
 
-***************************** Subdirectories ******************************
-
-bibtex   - The IEEEtran BibTeX style package.
-
-extras   - Supplementary material that may be of interest.
-
-testflow - The testflow diagnostic suite for verifying PS/PDF output.
-
-tools    - The IEEEtrantools.sty package which provides several commands
-           from the IEEEtran.cls file for use with other LaTeX classes.
-
-
 ********************************** Files **********************************
 
 README                 - This file.
@@ -89,26 +84,16 @@ changelog.txt          - The revision history.
 
 IEEEtran_HOWTO.pdf     - The IEEEtran LaTeX class user manual.
 
-bare_conf.tex          - A bare bones starter file for IEEE conference papers.
-
 bare_conf_compsoc.tex  - A bare bones starter file for IEEE Computer Society
                          conference papers.
-
-bare_jrnl.tex          - A bare bones starter file for IEEE journal papers.
-
-bare_jrnl_comsoc.tex   - A bare bones starter file for IEEE Communications
-                         Society journal papers.
 
 bare_jrnl_compsoc.tex  - A bare bones starter file for IEEE Computer Society
                          journal papers.
 
-bare_jrnl_transmag.tex - A bare bones starter file for IEEE Transactions
-                         on Magnetics journal papers.
-
 bare_adv.tex           - A bare bones starter file showing advanced
                          techniques such as conditional compilation,
                          hyperlinks, PDF thumbnails, etc. The illustrated
-                         format is for an IEEE Computer Society journal paper.
+                         format is for a IEEE Computer Society journal paper.
 
 ***************************************************************************
 Legal Notice:
@@ -134,7 +119,5 @@ Retain all contribution notices and credits.
 ** renaming them and changing author support contact information. **
 
 File list of work: IEEEtran.cls, IEEEtran_HOWTO.pdf, bare_adv.tex,
-                   bare_conf.tex, bare_conf_compsoc.tex,
-                   bare_jrnl.tex, bare_jrnl_comsoc.tex,
-                   bare_jrnl_compsoc.tex, bare_jrnl_transmag.tex
+                   bare_conf_compsoc.tex, bare_jrnl_compsoc.tex.
 ***************************************************************************
